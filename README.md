@@ -29,7 +29,7 @@ The dataset is from kaggle : [Link](https://www.kaggle.com/datasets/manishkc06/s
 - NumPy
 
 I will be uploading the requierements file soon so that installations can be made with a simple command : 
-```bash pip install -r requierements.txt```
+```pip install -r requierements.txt```
 
 ## Ensemble Modeling
 We will experiment with various machine learning algorithms to predict startup success.
