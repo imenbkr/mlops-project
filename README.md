@@ -35,9 +35,7 @@ I will be uploading the requierements file soon so that installations can be mad
 We will experiment with various machine learning algorithms to predict startup success.
 
 ## MLflow Integration
-We will use MLflow for experiment tracking. All experiments are logged in the mlflow_runs directory. To start a new experiment we can run the command:
-
-```mlflow run scripts/your_script.py```
+We will use MLflow for experiment tracking. All experiments are logged in the mlflow_runs directory.
 
 to access the MLflow UI at ```http://localhost:5000``` to view and compare experiments.
 
